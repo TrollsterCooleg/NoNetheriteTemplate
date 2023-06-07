@@ -1,0 +1,4 @@
+name: NoNetheriteTemplate
+version: '${project.version}'
+main: me.cooleg.nonetheritetemplate.NoNetheriteTemplate
+api-version: 1.19
